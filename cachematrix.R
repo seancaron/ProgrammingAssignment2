@@ -3,8 +3,6 @@
 ## than re-calculating the inverse.
 
 
-
-
 ## Build the list of functions for manipulating the matix. The matrix and its inverse are stored in the
 ## Global Environment, rather than the makeCacheMatrix environment, so that once produced they can be used
 ## again and again without recalculation
